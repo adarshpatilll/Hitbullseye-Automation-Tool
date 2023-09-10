@@ -1,5 +1,5 @@
 # Hitbullseye-Automation-Tool
-This tool is 100% working on hitbullseye.com
+This tool is 100% working on [hitbullseye.com](https://www.hitbullseye.com/)
 
 # Getting Started
 1. Clone or download this repository.
@@ -21,10 +21,10 @@ This tool is 100% working on hitbullseye.com
 9. Click "Start" to automate the test-taking process, and "Stop" to halt it.
 
 # Author
-Author : Adarsh Patil
-GitHub : apmsazure
-LinkedIn : Adarsh Patil on LinkedIn
-Instagram : adarsh_patil_infillionare
+**Author** : Adarsh Patil <br>
+**GitHub** : apmsazure <br>
+**LinkedIn** : Adarsh Patil on [LinkedIn](https://www.linkedin.com/in/adarsh-patil-69054a198?fbclid=PAAaZ3CF5N3WDYi-C4ld-XcTChpLlqax_vSROhtvGJrs34G613wb435Vvl1IQ_aem_AeQxiTRDbgOI07B7fOaPyrd7fIxgv1VZWKLbcJwvv2_Zi3q2Wsivi-tdOMfPg4EOmaI) <br>
+**Instagram** : adarsh_patil_infillionare [Click To Follow](https://instagram.com/adarsh_patil_infillionaire?igshid=OGQ5ZDc2ODk2ZA==)
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/apmsazure/Hitbullseye-Automation-Tool/blob/main/LICENSE) file for details.
